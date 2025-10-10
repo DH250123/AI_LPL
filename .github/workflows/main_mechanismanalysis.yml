@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'MechanismAnalysis'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_129543DF52A5404C9FEBBDE5AAF95377 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_358FFD386DAA4D1BB77DA4A6410500D5 }}
